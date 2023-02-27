@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "3b7a447ac0d90396",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b723ae3cc742553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2522a118bf3c6c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bfb313938996fd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f12c77030213e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2219cc6c1492d781",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d49d136405f1243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6947e95b67818e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61bbf1ddb9f5e655",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c8b6e8cccd2899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770ee226985dd8cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b00652eb80da86a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3af523ea687cbe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f139d1ae7db17217",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8642a52b69ed862",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d2522a118bf3c6c0",
+  "lastOpenFiles": [
+    "TropeChinese",
+    "厄运符 Bad Luck Charm.md",
+    "桥段 Trope.md",
+    "《卢大师之谜》.md",
+    "田园科幻 Pastoral Science Fiction.md",
+    "愚蠢致死.md",
+    "砸入饭盆的脸 Faceplanting into Food.md",
+    "《影之心系列》.md",
+    "-attachment/Pasted image 20220301103816.png.md",
+    "-attachment"
+  ]
+}
