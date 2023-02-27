@@ -3,7 +3,7 @@
 [[砸入饭盆的脸 Faceplanting into Food]]
 [[厄运符 Bad Luck Charm]]
 
-### Trope与 Metonymy 
+### Trope与 Metonymy
 
 Trope是[[Metonymy]]的上位词。
 
