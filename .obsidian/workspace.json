@@ -11,8 +11,12 @@
             "id": "d2522a118bf3c6c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "桥段 Trope.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "桥段 Trope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "桥段 Trope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "桥段 Trope.md"
+              }
             }
           },
           {
@@ -130,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,8 +157,8 @@
   },
   "active": "d2522a118bf3c6c0",
   "lastOpenFiles": [
-    "TropeChinese",
     "厄运符 Bad Luck Charm.md",
+    "TropeChinese",
     "桥段 Trope.md",
     "《卢大师之谜》.md",
     "田园科幻 Pastoral Science Fiction.md",
